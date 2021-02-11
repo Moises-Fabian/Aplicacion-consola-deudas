@@ -1,0 +1,7 @@
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\bin\Debug\AdminDeudas.exe.config
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\bin\Debug\AdminDeudas.exe
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\bin\Debug\AdminDeudas.pdb
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\obj\Debug\AdminDeudas.csprojAssemblyReference.cache
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\obj\Debug\AdminDeudas.csproj.CoreCompileInputs.cache
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\obj\Debug\AdminDeudas.exe
+C:\Users\mlago\source\repos\AdminDeudas\AdminDeudas\obj\Debug\AdminDeudas.pdb
